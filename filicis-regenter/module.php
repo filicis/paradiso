@@ -34,7 +34,7 @@ use Fisharebest\Webtrees\Module\ModuleHistoricEventsInterface;
 
 
 /**
-* Class BritishMonarchs
+* Danske Regenter
 */
 
 
@@ -50,7 +50,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
   */
   public function title(): string
   {
-    return 'Den Danske Kongerække';
+    return 'Danske Regenter';
   }
 
 
@@ -94,10 +94,22 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
   public function historicEventsAll(): Collection
   {
     return new Collection([
-    "1 EVEN William I, William the Conqueror\n2 TYPE English King\n2 DATE FROM @#DJULIAN@ 25 DEC 1066 TO @#DJULIAN@ 09 SEP 1087",
-     
-      /* Danske Regenter */
-    
+
+    "1 EVEN Interregnum\n2 TYPE Danske Regenter\n2 DATE FROM 15 MAY 1533 TO 20 APR 1534",
+    "1 EVEN Christian 3.\n2 TYPE Danske Regenter\n2 DATE FROM 1534 TO 1 jan 1559",
+    "1 EVEN Frederik 2.\n2 TYPE Danske Regenter\n2 DATE FROM 1 JAN 1559 TO 4 APR 1588",
+    "1 EVEN Christian 4.\n2 TYPE Danske Regenter\n2 DATE FROM 4 APR 1588 TO 28 FEB 1648",
+    "1 EVEN Frederik 3.\n2 TYPE Danske Regenter\n2 DATE FROM 6 JUL 1648 TO 9 FEB 1670",
+    "1 EVEN Christian 5.\n2 TYPE Danske Regenter\n2 DATE FROM 9 FEB 1670 TO 20 APR 1699",
+    "1 EVEN Frederik 4.\n2 TYPE Danske Regenter\n2 DATE FROM 20 APR 1699 TO 12 OCT 1730",
+    "1 EVEN Christian 6.\n2 TYPE Danske Regenter\n2 DATE FROM 12 OCT 1730 TO 6 AUG 1746",
+    "1 EVEN Frederik 5.\n2 TYPE Danske Regenter\n2 DATE FROM 15 MAY 1746 TO 14 JAN 1766",
+    "1 EVEN Christian 7.\n2 TYPE Danske Regenter\n2 DATE FROM 14 JAN 1766 TO 13 MAR 1808",
+    "1 EVEN Frederik 6.\n2 TYPE Danske Regenter\n2 DATE FROM 13 MAR 1808 TO 3 DEC 1839",
+    "1 EVEN Christian 8.\n2 TYPE Danske Regenter\n2 DATE FROM 3 DEC 1839 TO 20 JAN 1848",
+    "1 EVEN Frederik 7.\n2 TYPE Danske Regenter\n2 DATE FROM 20 JAN 1848 TO 15 NOV 1863",
+    "1 EVEN Christian 9.\n2 TYPE Danske Regenter\n2 DATE FROM 15 NOV 1863 TO 20 APR 1906",
+    "1 EVEN Frederik 8.\n2 TYPE Danske Regenter\n2 DATE FROM 15 MAY 1906 TO 15 MAY 1912",
     "1 EVEN Christian 10.\n2 TYPE Danske Regenter\n2 DATE FROM 15 MAY 1912 TO 20 APR 1947",
     "1 EVEN Frederik 9.\n2 TYPE Danske Regenter\n2 DATE FROM 20 APR 1947 TO 14 JAN 1972",
     "1 EVEN Margrethe 2.\n2 TYPE Danske Regenter\n2 DATE FROM 14 Jan 1972",
