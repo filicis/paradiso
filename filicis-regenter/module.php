@@ -121,12 +121,36 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     "1 EVEN Frederik 9.\n2 TYPE Danske Regenter\n2 DATE FROM 20 APR 1947 TO 14 JAN 1972\n2 NOTE Se [Danmarkshistorien](https://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/frederik-9-1899-1972/) ",
     "1 EVEN Margrethe 2.\n2 TYPE Danske Regenter\n2 DATE FROM 14 Jan 1972\n2 NOTE Se [Danmarkshistorien](https://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/margrethe-2-1940/) ",
 
+      /* Danske Krige - og udvalgte slag */
+
+    "1 EVEN Grevens Fejde\n2 TYPE Danske Krige\n2 DATE from 1534 to 1536\n2 NOTE ",
+
+    "1 EVEN Torstenson-krigen\n2 TYPE Danske Krige\n2 DATE from 1643 to 1645\n2 NOTE ",
+    "1 EVEN Karl Gustav-krigene\n2 TYPE Danske Krige\n2 DATE from 1657 to 1660\n2 NOTE ",
+    "1 EVEN Store Nordiske Krig\n2 TYPE Danske Krige\n2 DATE from 1700 to 1721\n2 NOTE ",
+    "1 EVEN Freden i Tracenthal\n2 TYPE Danske Krige\n2 DATE 18 AUG 1700\n2 NOTE ",
+    "1 EVEN Slaget ved Helsingborg\n2 TYPE Danske Krige\n2 DATE 28 FEB 1710\n2 NOTE ",
+    "1 EVEN Freden i Frederiksborg\n2 TYPE Danske Krige\n2 DATE 3 JUL 1720\n2 NOTE ",
+
+
+    "1 EVEN Revolutionskrigene\n2 TYPE Danske Krige\n2 DATE from 1792 to 1803\n2 NOTE ",
+    "1 EVEN Napoleonskrigene\n2 TYPE Danske Krige\n2 DATE from 1804 to 11 APR 1814\n2 NOTE ",
+    "1 EVEN Slaget på Reden\n2 TYPE Danske Krige\n2 DATE 1801\n2 NOTE ",
+    "1 EVEN Københavns bombadement\n2 TYPE Danske Krige\n2 DATE 1807\n2 NOTE Tabet af flåden",
+    "1 EVEN Freden i Kiel\n2 TYPE Danske Krige\n2 DATE 1814\n2 NOTE Tabet af Norge",
+    "1 EVEN 1. Slesvigske krig\n2 TYPE Danske Krige\n2 DATE FROM 9 APR 1848 TO 5 MAY 1850\n2 NOTE Se [Danmarkshistorien](https://danmarkshistorien.dk/perioder/det-unge-demokrati-1848-1901/treaarskrigen-1848-50-1-slesvigske-krig/) ",
+    "1 EVEN 2. Slesvigske krig\n2 TYPE Danske Krige\n2 DATE FROM 1864\n2 NOTE ",
     "1 EVEN 1. Verdenskrig\n2 TYPE Danske Krige\n2 DATE FROM 1 AUG 1914 TO 11 NOV 1918\n2 NOTE Selv om Danmark opretholdt streng neutralitet, og ikke deltog aktivt i krigen, fik den stor indflydelse på livet i Danmark, Se [Wikipedia](https://da.wikipedia.org/wiki/1._verdenskrig) ",
     "1 EVEN Besættelsen\n2 TYPE Danske Krige\n2 DATE FROM 9 APR 1940 TO 5 MAY 1945\n2 NOTE ",
 
     "1 EVEN Den Spanske Syge\n2 TYPE Epidemier\n2 DATE 1918 \n2 NOTE Verdensomspændende influenza epidemi der kostede 50 mill mennesker livet, heraf 14.000 danske, se [Wikipedia](https://da.wikipedia.org/wiki/Den_spanske_syge)",
     "1 EVEN Polio epidemien\n2 TYPE Epidemier\n2 DATE 1952\n2 NOTE Sommeren 1952 blev København ramt af [en polioepidemi af hidtid usete dimensioner](https://da.wikipedia.org/wiki/Polio)",
 
+      /* Dansk Politik */
+
+    "1 EVEN Reformationen\n2 TYPE Dansk Politik\n2 DATE OKT 1536\n2 NOTE ",
+
+    "1 EVEN Enevældens indførelse\n2 TYPE Dansk Politik\n2 DATE 1666\n2 NOTE Se [Danmarkshistorien](https://danmarkshistorien.dk/perioder/den-aeldre-enevaelde-1660-1784/enevaeldens-indfoerelse-1660/)",
 
 
     ]);
