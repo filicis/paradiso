@@ -151,6 +151,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     "1 EVEN Reformationen\n2 TYPE Dansk Politik\n2 DATE OKT 1536\n2 NOTE ",
 
     "1 EVEN Enevældens indførelse\n2 TYPE Dansk Politik\n2 DATE 1666\n2 NOTE Se [Danmarkshistorien](https://danmarkshistorien.dk/perioder/den-aeldre-enevaelde-1660-1784/enevaeldens-indfoerelse-1660/)",
+    "1 EVEN Statsbankerotten\n2 TYPE Dansk Politik\n2 DATE OKT 1813\n2 NOTE ",
 
 
     ]);
