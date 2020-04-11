@@ -123,10 +123,23 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
 
       /* Danske Krige - og udvalgte slag */
 
+    "1 EVEN Felttoget i Ditmarsken\n2 TYPE Danske Krige\n2 DATE 1500\n2 NOTE Se [Wikipedia](https://da.wikipedia.org/wiki/Slaget_ved_Hemmingstedt)",
+
     "1 EVEN Grevens Fejde\n2 TYPE Danske Krige\n2 DATE from 1534 to 1536\n2 NOTE ",
+    "1 EVEN Den Livlandske Krig\n2 TYPE Danske Krige\n2 DATE from 1558 to 1583\n2 NOTE ",
+    "1 EVEN Den Nordiske Syvårskrig\n2 TYPE Danske Krige\n2 DATE from 1563 to 1570\n2 NOTE ",
+    "1 EVEN Kalmar Krigen\n2 TYPE Danske Krige\n2 DATE from 1611 to 1613\n2 NOTE ",
+    "1 EVEN Trediveårskrigen\n2 TYPE Danske Krige\n2 DATE from 1618 to 1648\n2 NOTE ",
+
 
     "1 EVEN Torstenson-krigen\n2 TYPE Danske Krige\n2 DATE from 1643 to 1645\n2 NOTE ",
     "1 EVEN Karl Gustav-krigene\n2 TYPE Danske Krige\n2 DATE from 1657 to 1660\n2 NOTE ",
+
+    "1 EVEN Den Fransk-Hollandske Krig\n2 TYPE Danske Krige\n2 DATE from 1672 to 1678\n2 NOTE ",
+
+    "1 EVEN Den SkånskeKrig\n2 TYPE Danske Krige\n2 DATE from 1675 to 1679\n2 NOTE ",
+
+
     "1 EVEN Store Nordiske Krig\n2 TYPE Danske Krige\n2 DATE from 1700 to 1721\n2 NOTE ",
     "1 EVEN Freden i Tracenthal\n2 TYPE Danske Krige\n2 DATE 18 AUG 1700\n2 NOTE ",
     "1 EVEN Slaget ved Helsingborg\n2 TYPE Danske Krige\n2 DATE 28 FEB 1710\n2 NOTE ",
